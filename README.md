@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # Fruit Burst Website
+=======
+# Fruit Burst Website 
+>>>>>>> 1413542abaaa0ad574d421b1e9c96ecc99d0359f
 
 <p style="border-left: 3px solid aqua; padding-left:15px;">
 <em>This is the 3rd assignment of PH.</em> <br>  
