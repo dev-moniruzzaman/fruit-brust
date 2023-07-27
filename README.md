@@ -1,15 +1,10 @@
-<<<<<<< HEAD
 # Fruit Burst Website
-=======
-# Fruit Burst Website 
->>>>>>> 1413542abaaa0ad574d421b1e9c96ecc99d0359f
 
-<p style="border-left: 3px solid aqua; padding-left:15px;">
-<em>This is the 3rd assignment of PH.</em> <br>  
-We focused here Tailwind css & daisyUi. 
-</p>
+<em>This is the 3rd assignment of PH.</em>  
+We focused here Tailwind css & daisyUi.
+
 <hr>
-<h3 style="color:dodgerblue; font-weight:bold;">
+<h3>
   Live Link :
 </h3>
 <ul type="circle">
@@ -17,7 +12,7 @@ We focused here Tailwind css & daisyUi.
     <li>By Netlify: https://fruit-brust-babu.netlify.app/ </li>
 </ul>
 <hr>
-<h3 style="color:tomato; font-weight:bold;">
+<h3>
 Tools :
 </h3>
 <ul type="square">
